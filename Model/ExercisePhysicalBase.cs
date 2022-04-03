@@ -3,7 +3,7 @@
 namespace Model
 {
     /// <summary>
-    /// Абстрактный класс физические упражнения.
+    /// Абстрактный класс для описания физических упражнений.
     /// </summary>
     public abstract class ExercisePhysicalBase
     {
