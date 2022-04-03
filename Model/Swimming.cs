@@ -1,7 +1,7 @@
 ﻿namespace Model
 {
     /// <summary>
-    /// Класс с информацией о физическом упражнении - плавание.
+    /// Класс с информацией о плавании.
     /// </summary>
     public class Swimming : ExercisePhysicalBase
     {

@@ -1,7 +1,7 @@
 ﻿namespace Model
 {
     /// <summary>
-    /// Класс с информацией о физическом убоажнении - бег.
+    /// Класс с информацией о беге.
     /// </summary>
     public class Run : ExercisePhysicalBase
     {
